@@ -1,0 +1,15 @@
+name: lhc-olympics
+channels:
+  - pytorch
+dependencies:
+  - dask
+  - numpy
+  - pandas
+  - scikit-learn
+  - jupyter
+  - tqdm
+  - tensorflow
+  - pytorch
+  - tensorboard
+  - matplotlib
+  - seaborn
