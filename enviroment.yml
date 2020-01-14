@@ -2,8 +2,10 @@ name: lhc-olympics
 channels:
   - anaconda
   - pytorch
+  - conda-forge
 dependencies:
   - h5py
+  - root
   - dask
   - numpy
   - pandas
